@@ -1,0 +1,11 @@
+python-telegram-bot
+solana
+requests
+python-dotenv
+httpx[http2]
+solders
+base58
+pytest
+pymongo
+cryptography
+asyncio
